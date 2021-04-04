@@ -10,7 +10,7 @@
 
 ### 必須スクリプト
 rikkymodule rikkyさん
-http://hazumurhythm.com/wev/amazon/?script=rikkymodulea2Z
+- http://hazumurhythm.com/wev/amazon/?script=rikkymodulea2Z
 
 ANM1 :さつき さん
 - https://dic.nicovideo.jp/u/2787743#script
@@ -23,7 +23,7 @@ ANM1 :さつき さん
 - https://www.nicovideo.jp/watch/sm20632293
 
 マルチベジエ軌道 :93 さん
-https://twitter.com/Respectrum93
+- https://twitter.com/Respectrum93
 
 簡易水玉 :ウサギ さん
 - https://www.nicovideo.jp/watch/sm23400649
@@ -31,6 +31,7 @@ https://twitter.com/Respectrum93
 
 ## 使用方法
 zipファイル内のaupファイルをAviUtlで開いてください。
+
 画像は以下のものに置き換えられています。
 
 - 背景画像：bg___.png
