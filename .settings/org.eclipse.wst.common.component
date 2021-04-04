@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="aup_parody_movie">
+        <wb-resource deploy-path="/" source-path="/doc"/>
+        <property name="context-root" value="aup_parody_movie"/>
+    </wb-module>
+</project-modules>
