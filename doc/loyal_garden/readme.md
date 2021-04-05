@@ -2,10 +2,9 @@
 これはロイヤルガーデンOPパロのAviUtlのプロジェクトファイルです。
 
 ## 環境
-### AviUtl 1.10
-- http://spring-fragrance.mints.ne.jp/aviutl/
-
-### AviUtl拡張編集 0.92
+### AviUtl
+- AviUtl 1.10
+- AviUtl拡張編集 0.92
 - http://spring-fragrance.mints.ne.jp/aviutl/
 
 ### 必須スクリプト
